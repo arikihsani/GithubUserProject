@@ -1,9 +1,13 @@
 # GithubUserProject
 
+### Created by: Athallah Rikza Ihsani
+
 ### How to run code:
 1. Download as zip/pull the master branch
 2. Locate and extract the zip file
 3. Open Android studio, import project, select the GithubUserProject Folder
+4. Build Gradle, then run the app with emulator/device.
+5. Make sure you are connected to the internet to test the features
 
 ### Features:
 1. Search Github User (connected to github user api, using retrofit, view model, & live data)
