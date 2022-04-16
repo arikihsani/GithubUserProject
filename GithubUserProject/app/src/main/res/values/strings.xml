@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Aplikasi GitHub User</string>
+    <string name="following">Following:</string>
+    <string name="followers">Followers:</string>
+    <string name="company">Company:</string>
+    <string name="repository">Repository:</string>
+    <string name="location">Location:</string>
+    <string name="username">Username:</string>
+    <string name="name">Name:</string>
+    <string name="user_s_avatar">User\'s Avatar</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="search">Search</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="list_favorite_user">List Favorite User</string>
+    <string name="error_msg_fu">You haven\'t added favorite user, yet</string>
+    <string name="error_msg_fu2">Add fav user by clicking fav button on user details!</string>
+    <string name="no_result_image">No result image</string>
+    <string name="error_msg_search">Huhh, search not found!</string>
+    <string name="error_msg_search_2">Make sure the username input is correct!</string>
+    <string name="add_to_favorite">Add to Favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="set_theme">Set Theme</string>
+</resources>
