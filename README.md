@@ -17,4 +17,4 @@
 5. Dark Mode (Using Preference Datastore)
 
 ### Note:
-The API Token will expire in 90 days since this project uploaded, if the app doesnt show anything, it means the token is already expired.
+There are API limit (60 times per hour), if the app doesn't show anything, it means it already reached the limit. Please wait for another one hour.
