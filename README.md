@@ -17,4 +17,4 @@
 5. Dark Mode (Using Preference Datastore)
 
 ### Note:
-There are API limit (60 times per hour), if the app doesn't show anything, it means it already reached the limit. Please wait for another one hour.
+There is API limit (60 times per hour), if the app doesn't show anything, it means it already reached the limit. Please wait for another one hour.
