@@ -15,3 +15,6 @@
 3. Showing detail of github user and the following & follower list
 4. Add to Favorite User (Using Room Database)
 5. Dark Mode (Using Preference Datastore)
+
+### Note:
+The API Token will expire in 90 days since this project uploaded, if the app doesnt show anything, it means the token is already expired.
